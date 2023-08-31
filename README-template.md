@@ -22,7 +22,7 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### The challenge
 
-Users should be able to:
+Users are able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
@@ -61,7 +61,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This was a good challenge that increased my confidence as a web developer. Building a whole landing page from scratch without consulting google was a big achievent for me. The imposter syndrome is suppressed and i feel confident to take bigger projects. 
 
 To see how you can add code snippets, see below:
 
